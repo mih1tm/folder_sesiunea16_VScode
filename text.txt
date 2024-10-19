@@ -1,0 +1,8 @@
+se declara o variabila de tip tablou "T"
+care contine numere de la 1 la 20
+
+programul "sesiunea 16" trebuie sa afiseze 
+pe ecran un mesaj pentru fiecare numar din 
+tablou mesajul este de doua tipuri
+numar par si numar impar
+sa se rezolve cu while
